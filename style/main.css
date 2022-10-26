@@ -64,7 +64,7 @@ main .info .author .article-info {
   align-items: center;
   gap: 15px;
 }
-main .info .author .article-info > div > h5 {
+main .info .author .article-info > div > h2 {
   font-size: 14px;
   margin-bottom: 5px;
 }
